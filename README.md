@@ -306,7 +306,7 @@ python notebooks/mysql_loader.py
 
 ## Author
 
-**freakwhale23**
+**Muhammad Wael Imad Bin Mhd Yusoff**
 - Built as a portfolio project to demonstrate end-to-end data analytics skills
 - Open to data analyst opportunities — feel free to connect on LinkedIn
 
